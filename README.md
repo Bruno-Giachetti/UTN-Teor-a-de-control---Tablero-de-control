@@ -2,7 +2,8 @@
 Tablero de control hecho para el curso K4011 de la materia Teoría de control de la UTN FRBA.
 
 ##INSTRUCCIONES DE APERTURA
-
+    -Clonar el repositorio
+    -Entrar a la carpeta UTN_Teoria_de_control-Tablero_de_control
     -Entrar a la carpeta tablero-control-conmutador
     -Entrar a la carpeta build
     -Hacer doble click en index.html
